@@ -4,6 +4,6 @@ WORKDIR /app
 
 COPY . .
 
-CMD ["echo, "Hello My Name Is Chaitanya"]
+CMD ["echo", "Hello My Name Is Chaitanya"]
 
 
